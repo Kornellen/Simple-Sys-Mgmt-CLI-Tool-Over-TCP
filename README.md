@@ -1,4 +1,4 @@
-![GitHub License](https://img.shields.io/github/license/kornellen/Simple-System-Mgmt-Tool-Over-TCP)
+![GitHub License](https://img.shields.io/github/license/kornellen/Simple-Sys-Mgmt-CLI-Tool-Over-TCP)
 ![Static Badge](https://img.shields.io/badge/typescript-blue?logo=typescript&label=typescript)
 
 <hr />
